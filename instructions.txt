@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 put a whole white ripe avocado in a bowl
 add onion
 squeeze half lime
 add a pinch of salt
+=======
+put avocado in a bowl
+add onion
+squeeze lime
+>>>>>>> parent of 21f3484... more specific about quantities
 mix well
 
